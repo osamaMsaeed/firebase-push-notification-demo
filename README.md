@@ -1,1 +1,1 @@
-# firebase-push-notification-testing
+# firebase-push-notification-demo
